@@ -1,0 +1,112 @@
+echo " " 
+echo " "
+echo " " 
+echo " " 
+echo "This script is made by king khokhar"
+echo " " 
+echo " " 
+echo " " 
+echo "King of khokhar" 
+echo " " 
+echo " " 
+echo " " 
+echo "Installtion Process is started"
+echo " " 
+echo " " 
+
+pkg update -y
+pkg install python -y
+pkg install python2 -y
+pkg ruby -y
+pkg install git -y
+pkg install screenfetch -y
+pkg install cowasy -y
+pkg install toilet -y
+pkg install figlet -y
+pkg install php -y
+pkg install per1 -y
+pkg install nmap -y
+pkg install openssh -y
+pkg install bash -y
+pkg install clang -y
+pkg install jq -y
+pkg install nano -y
+pkg install curl -y
+pkg install tar -y
+pkg install zip -y
+pkg install fish -y
+pkg install unzip -y
+pkg install tor -y
+pkg install sudo -y
+pkg install wget -y
+pkg install tor -y
+pkg install w3m -y
+pkg install cmatrix -y
+pkg install wcalc -y 
+pkg install openssl -y
+pkg install bmon -y
+pkg upgrade -yecho 
+echo " " 
+echo " " 
+echo " " 
+echo " " 
+echo " " 
+echo "All basic packages and tools is installed" 
+echo " " 
+echo " " 
+echo " " 
+echo " " 
+
+"_§§§§§___§§§§§§§__§§§§§§
+§§§§§§§§§_______§§§§§§c§§
+§§§§§§_____________§§§§d§
+§§§§_________________§§§§
+§§§___________________§§§
+_§§___________________§§
+_§_____________________§
+_§__§§§___________§§§__§
+§__§___§_________§___§__§
+§_§_§§__§_______§__§§_§_§
+§_§_§§§_§_______§_§§§_§_§
+§_§_§§§_§_§§§§§_§_§§§_§_§
+§__§___§__§§§§§__§___§__§
+_§__§§§____§§§____§§§__§
+_§_______§__§__§_______§
+__§_______§§_§§_______§
+___§§_______________§§
+_____§§___________§§
+____§§§§§§§§§§§§§§§§§
+___§§_______________§§
+__§§______§§§§§______§§
+_§§§______§___§______§§§
+§§§§§_____§___§_____§§§§§
+§§§§§____§_____§____§§§§§
+§§§§§____§_____§____§§§§§
+_§§§§§§§§_______§§§§§§§§
+__§§§§§§§_______§§§§§§§
+__§§___§§_______§§___§§
+__§§___§§_______§§___§§
+__§§___§§_§§§§§_§§___§§
+__§§§§§§§§_____§§§§§§§§
+___§§§§§_________§§§§§"
+
+██╗░░██╗██╗░░██╗██╗███████╗░█████╗░░█████╗░
+██║░██╔╝██║░░██║██║╚════██║██╔══██╗██╔══██╗
+█████═╝░███████║██║░░███╔═╝██║░░██║██║░░██║
+██╔═██╗░██╔══██║██║██╔══╝░░██║░░██║██║░░██║
+██║░╚██╗██║░░██║██║███████╗╚█████╔╝╚█████╔╝
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚══════╝░╚════╝░░╚════╝░
+
+██╗░░██╗░█████╗░░█████╗░██╗░░██╗███████╗
+██║░░██║██╔══██╗██╔══██╗██║░██╔╝██╔════╝
+███████║███████║██║░░╚═╝█████═╝░█████╗░░
+██╔══██║██╔══██║██║░░██╗██╔═██╗░██╔══╝░░
+██║░░██║██║░░██║╚█████╔╝██║░╚██╗███████╗
+╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝
+echo " "
+echo "Telegram channel @Khioo Hacke
+Youtube channel Aryan hacke
+github;https://github.com/kingkhokhar777/
+echo " "
+echo "This script by Khizoo hacke"
+echo "Thnak You So Much"
